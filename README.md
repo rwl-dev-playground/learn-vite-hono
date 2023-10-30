@@ -1,10 +1,11 @@
-# Learn Repo Template
+# Learn Vite Hono
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+Honoの最新のCloudflare Pagesテンプレートを試す
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+- [ ] hono/jsxで簡単なWebサイトを構築
+- [ ] Tailwind CSSでスタイルを適用
 
 ## 参考資料
-- 特になし
+- [Honoの新しいCloudflare Pagesスターターについて](https://zenn.dev/yusukebe/articles/92fcb0ef03b151)
