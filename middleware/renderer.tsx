@@ -15,17 +15,16 @@ export const renderer = jsxRenderer(
     return (
       <html lang="ja">
         <head>
-          <link href="/static/style.css" rel="stylesheet" />
           <title>{title}</title>
           <meta name="description" content={description} />
         </head>
         <body>
           <header>
-            <h1>{title}</h1>
+            <h1 class="text-4xl font-bold">{title}</h1>
             <span>{description}</span>
           </header>
-          <main>{children}</main>
-          <footer>
+          <main class="mt-5">{children}</main>
+          <footer class="mt-5">
             <p>
               <small>&copy; 2023-now WhyK</small>
             </p>

@@ -9,6 +9,8 @@
     "fmt": "biome format . --write"
   },
   "dependencies": {
+    "@twind/core": "^1.1.3",
+    "@twind/preset-tailwind": "^1.1.4",
     "hono": "^3.9.0"
   },
   "devDependencies": {
